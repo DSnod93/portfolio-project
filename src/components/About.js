@@ -2,7 +2,7 @@ import React from 'react';
 
 const About = () => {
     return (
-        <div className="card">
+        <div className="card bg-light">
             <div className="card-img-top d-flex align-items-center bg-light">
                 <div>
                     <img className="img-fluid" src="../images/me.jpg" alt="Douglas" />

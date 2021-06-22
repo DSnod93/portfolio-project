@@ -66,3 +66,12 @@ nav ul li {
 .card-image {
   
 }
+
+/********************FOOTER***********************/
+.footer-copyright {
+  font-weight: bolder;
+}
+
+.footer-link > li > a:hover {
+  border-bottom: 0.1875rem solid var(--primary-orange);
+}
